@@ -8,7 +8,7 @@
 <br>
 <img src="https://cdn3.emoji.gg/emojis/4291-brazil.png" alt="brazilian flag" width="2%" /> _Discord Rich Presence é usado para mostrar a atividade atual do usuário Discord enquanto conectado._
 
-<img src="https://cdn.discordapp.com/attachments/1165146974815801525/1259719015904051291/design.png?ex=668cb441&is=668b62c1&hm=a561f6d20a17bf3ae30f03c6cad7b6e84425b093b816b10eacb45d49a652b8e7&" width="30%">
+<img src="https://cdn.discordapp.com/attachments/1165146974815801525/1259719015904051291/design.png?ex=668cb441&is=668b62c1&hm=a561f6d20a17bf3ae30f03c6cad7b6e84425b093b816b10eacb45d49a652b8e7&" width="80%">
 
 <img src="https://1000logos.net/wp-content/uploads/2023/11/American-Flag-Emoji.png" alt="us flag" width="5%" />
 
