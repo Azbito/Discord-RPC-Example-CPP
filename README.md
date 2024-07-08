@@ -1,7 +1,9 @@
 # Discord Rich Presence Example
 
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="40rem">
-<img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" alt="C++" width="45rem">
+<div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="40rem">
+    <img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" alt="Discord" width="45rem">
+</div>
 <br /><br />
 
 <img src="https://1000logos.net/wp-content/uploads/2023/11/American-Flag-Emoji.png" alt="us flag" width="2%" /> _Discord Rich Presence is used to display on Discord what is the user's activity while connected._
